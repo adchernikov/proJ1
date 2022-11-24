@@ -5,5 +5,14 @@ public class Main {
         System.out.println("Hell88 world!!!!");
         System.out.println("Даша-простокваша");
         System.out.println("Даша-простокваша");
+        System.out.println("Даша-простокваша");
+        System.out.println("Даша-простокваша");
+        System.out.println("Даша-простокваша");
+        System.out.println("Даша-простокваша");
+        System.out.println("Даша-простокваша");
+        System.out.println("Даша-простокваша");
+        System.out.println("Даша-простокваша");
+        System.out.println("Даша-простокваша");
+
     }
 }
