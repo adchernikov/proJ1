@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Саша-простокваша");
         System.out.println("Саша-простокваша");
         System.out.println("Саша-простокваша");
-        System.out.println("Саша-простокваша");
+        System.out.println("Cyffff-простокваша");
         System.out.println("Саша-простокваша");
         System.out.println("Саша-простокваша");
         System.out.println("Саша-простокваша");
